@@ -1,7 +1,7 @@
 # Natural-Language-Processing-Nanodegree
 My project work on Udacity's Natural Language Processing Nanodegree
 
-## Terms & Conditions to make use of this code
+## Terms & Conditions:
 
 * The code provide here should be used for audit purpose only.
 * Code should not be used for any plaigraism activity in Udacity Nanodegree Courses. 
